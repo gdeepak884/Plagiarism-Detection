@@ -1,1 +1,1 @@
-[mail me](deepak.gupta@softstack-research.co)
+[mail me](mailto://deepak.gupta@softstack-research.co)
